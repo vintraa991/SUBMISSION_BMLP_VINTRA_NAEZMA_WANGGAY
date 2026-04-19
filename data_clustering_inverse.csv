@@ -1,0 +1,6 @@
+TransactionAmount,TransactionType,Location,Channel,CustomerAge,CustomerOccupation,TransactionDuration,LoginAttempts,AccountBalance,AgeGroup,Target
+14.090000000000032,Debit,San Diego,ATM,70.0,Doctor,81.0,1.0,5112.21,Tinggi,1
+376.24,Debit,Houston,ATM,68.0,Doctor,141.0,1.0,13758.91,Tinggi,2
+126.29000000000002,Debit,Mesa,Online,19.0,Student,56.0,1.0,1122.3499999999995,Rendah,2
+184.5,Debit,Raleigh,Online,26.0,Student,25.0,1.0,8569.06,Rendah,1
+92.15,Debit,Oklahoma City,ATM,18.0,Student,172.0,1.0,781.6800000000003,Rendah,1
